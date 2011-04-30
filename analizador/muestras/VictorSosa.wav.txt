@@ -1,0 +1,1 @@
+inf 0.00185635 inf 206.075 -nan -nan -nan -nan -nan 0.31659 0.85751 0.285837 -nan -nan -nan -nan -nan -nan 
